@@ -29,3 +29,11 @@ A classe `TremAutonomo` gerencia o estado do trem e a execução dos comandos. A
 - **Comandos Inválidos:** Verificação de comandos desconhecidos e formatos incorretos.
 - **Restrições de Movimento:** Testes para assegurar que o trem não exceda a distância máxima permitida ou faça movimentos consecutivos excessivos.
 - **Condições de Borda:** Testes para cenários próximos aos limites estabelecidos.
+
+## Desenvolvedores
+
+<table align="center">
+  <tr>
+      <td align="center"><a href="https://github.com/v0cs"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/104214178?v=4" width="100px;" alt=""/><br /><sub><b>Vítor Celestino</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">🚀</a></td>
+    <td align="center"><a href="https://github.com/WesllyHn"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/117309594?v=4" width="100px;" alt=""/><br /><sub><b>Weslly Neres</b></sub></a><br /><a href="https://rocketseat.com.br/" title="Rocketseat">👨‍🚀</a></td>
+  </tr>
